@@ -1,5 +1,5 @@
 
-//reading data using  scanf here we can use %s and %c both
+//reading data using  scanf here we can use %s and %c both but for string use fgets 
 
 #include <stdio.h>
 #include <stdlib.h>
